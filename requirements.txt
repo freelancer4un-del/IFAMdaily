@@ -1,1 +1,0 @@
-pip install streamlit pandas numpy plotly scikit-learn scipy requests beautifulsoup4 openpyxl
